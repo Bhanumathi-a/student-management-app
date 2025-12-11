@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
-    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///D:/student-management-app/src/app/sign-in/page.tsx"],"sourcesContent":["const LoginPage = () => {\n  return <div>login</div>\n}\nexport default LoginPage\n"],"names":[],"mappings":";;;;;;AAAA,MAAM,YAAY;IAChB,qBAAO,8OAAC;kBAAI;;;;;;AACd;uCACe","debugId":null}}]
-}
