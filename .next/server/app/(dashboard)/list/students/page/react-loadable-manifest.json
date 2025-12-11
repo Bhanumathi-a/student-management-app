@@ -1,0 +1,18 @@
+{
+  "[project]/src/components/forms/TeacherForm.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/forms/TeacherForm.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_180b1269._.js",
+      "static/chunks/src_components_a769c536._.js",
+      "static/chunks/src_components_forms_TeacherForm_tsx_cb24765c._.js"
+    ]
+  },
+  "[project]/src/components/forms/StudentForm.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/forms/StudentForm.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_180b1269._.js",
+      "static/chunks/src_components_a30b2681._.js",
+      "static/chunks/src_components_forms_StudentForm_tsx_cb24765c._.js"
+    ]
+  }
+}

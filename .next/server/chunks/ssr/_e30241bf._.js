@@ -1213,7 +1213,7 @@ const menuItems = [
             {
                 icon: "/teacher.png",
                 label: "Teachers",
-                href: "/list/teachers",
+                href: "/list/students",
                 visible: [
                     "admin",
                     "teacher"
