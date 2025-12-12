@@ -2,13 +2,13 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
-   images: {
+  images: {
     // domains: ['images.pexels.com'], 
     remotePatterns: [
-      {hostname: 'images.pexels.com'}
-      ]
+      { hostname: 'images.pexels.com' }
+    ]
   },
-  
+
 };
 
 
